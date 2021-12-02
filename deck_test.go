@@ -11,6 +11,5 @@ func TestNewDeck(t *testing.T) {
 		t.Errorf("Expected length of 40 but got" , len(d))
 	}
 
-
 }
 
